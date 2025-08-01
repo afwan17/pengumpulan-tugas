@@ -1,1 +1,5 @@
-//ini tugas afwan
+//contoh var
+
+var nama = "afwan";
+
+// contoh logika
