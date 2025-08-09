@@ -1,0 +1,19 @@
+{
+  "name": "tugas",
+  "version": "1.0.0",
+  "description": "tugas",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afwan17/pengumpulan-tugas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afwan17/pengumpulan-tugas/issues"
+  },
+  "homepage": "https://github.com/afwan17/pengumpulan-tugas#readme"
+}
